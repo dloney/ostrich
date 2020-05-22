@@ -19,17 +19,3 @@ the MPI standard, which is distributed free of charge by Microsoft and can be do
 
 Instructions for building and using OSTRICH can be found on the OSTRICH wiki pages: https://github.com/usbr/ostrich/wiki.
 
-## Acknowledgements
-Funding for the creation of the user manual was provided by Environment Canada under contract number K3D35-14-0487R. 
-Funding for the VARS (Variogram Analysis of Response Surfaces) implementation was provided by the Global Institute for Water 
-Security at the University of Saskatchewan under the direction of Dr. Saman Razavi. The Dynamically Dimensioned Search (DDS) 
-algorithm was developed by Professor Bryan Tolson and implemented in C/C++ code by Professor James Craig. Both James and 
-Bryan are currently at the University of Waterloo. Professor Craig also provided routines for generating normally distributed 
-random variables. Other variants of the DDS family of algorithms were ported to OSTRICH using C/C++ and FORTRAN implementations 
-provided by Professor Tolson’s research group. Hyper volume calculations within the Pareto Archived DDS code have been adapted 
-from original C++ source developed by Nicola Beume at the University of Dortmund. The Shuffled Complex Evolution (SCE) 
-algorithm was ported from the original FORTRAN implementation of Dr. Qingyun Duan. All other algorithm implementations are 
-based on published descriptions and were coded primarily by L. Shawn Matott. The basic object-oriented and model-independent 
-structure of OSTRICH is based off of a code known as MACT (Multi-Algorithm Calibration Tool) that was developed by Vijaykumar 
-Raghavan while at the University at Buffalo and under the supervision of Professor Alan J. Rabideau. Portions of the genetic 
-algorithm and simulated annealing implementations in OSTRICH were ported from Mr. Raghavan’s MACT code.
